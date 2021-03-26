@@ -13,10 +13,10 @@ import {
 const INIT_STATE = {
   activeDir: "ltr",
   activeThemeLayout: "vertical",
-  activeTheme: "light",
+  activeTheme: "dark",
   activeSidebarType: "full",
-  activeLogoBg: "skin6",
-  activeNavbarBg: "skin6",
+  activeLogoBg: "skin5",
+  activeNavbarBg: "skin5",
   activeSidebarBg: "skin5",
   activeSidebarPos: "fixed",
   activeHeaderPos: "fixed",
